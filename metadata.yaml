@@ -1,0 +1,28 @@
+_repo: Within-the-Law-From-the-Play-of-Bayard-Veiller_905
+creator:
+  authors:
+  - agent_name: Veiller, Bayard
+    birthdate: 1869
+    deathdate: 1943
+    gutenberg_agent_id: '463'
+    url: http://www.gutenberg.org/2009/agents/463
+  - agent_name: Dana, Marvin
+    alias: Dana, Marvin Hill
+    birthdate: 1867
+    gutenberg_agent_id: '462'
+    url: http://www.gutenberg.org/2009/agents/462
+description: ''
+gutenberg_issued: '1997-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '905'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Revenge -- Fiction'
+- !lcsh 'Detective and mystery stories'
+title: 'Within the Law: From the Play of Bayard Veiller'
+url: http://www.gutenberg.org/ebooks/905
