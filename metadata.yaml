@@ -1,5 +1,8 @@
 _repo: Within-the-Law-From-the-Play-of-Bayard-Veiller_905
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Veiller, Bayard
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '462'
     url: http://www.gutenberg.org/2009/agents/462
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/905#Within-the-Law-From-the-Play-of-Bayard-Veiller
 gutenberg_issued: '1997-05-01'
 gutenberg_type: Text
 identifiers:
