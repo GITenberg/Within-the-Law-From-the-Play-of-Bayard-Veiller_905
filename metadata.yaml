@@ -1,5 +1,5 @@
 _repo: Within-the-Law-From-the-Play-of-Bayard-Veiller_905
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,5 +30,6 @@ subjects:
 - !lcc 'PS'
 - !lcsh 'Revenge -- Fiction'
 - !lcsh 'Detective and mystery stories'
+- GITenberg
 title: 'Within the Law: From the Play of Bayard Veiller'
 url: http://www.gutenberg.org/ebooks/905
